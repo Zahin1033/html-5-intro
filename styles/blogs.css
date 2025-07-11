@@ -9,3 +9,7 @@ nav li{
 nav li:hover{
     background-color: blueviolet;
 }
+footer{
+    text-align: center;
+    margin-right: 900px;
+}
